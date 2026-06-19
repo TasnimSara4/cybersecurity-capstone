@@ -7,8 +7,7 @@
 * **Date:** 06/02/26
 * **Course/Period:** [Cybersecurity Period 4]
 * **Selected Pathway:** [Option 1: Expansion Pack]
-* **Project Demo Link:** [Insert GitHub URL, Website Link, or Video Demo URL Here]
-
+* **Project Demo Link:** [https://www.youtube.com/watch?v=rOJjpiQpGLA]
 
 ---
 
